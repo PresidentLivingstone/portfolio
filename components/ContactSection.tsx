@@ -124,7 +124,7 @@ export default function ContactSection() {
                     </div>
                     <div>
                       <h5 className="text-white font-medium mb-1">Location</h5>
-                      <p className="text-gray-400">461/2, Ambedkar Nagar, Shalimar Bagh, 110088 New Delhi</p>
+                      <p className="text-gray-400">8668 Kuwadzana Phase 3 ,Dzivarasekwa, Harare, Zimbabwe</p>
                     </div>
                   </div>
                   
