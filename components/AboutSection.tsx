@@ -106,7 +106,7 @@ export default function AboutSection() {
                 </div>
                 <div>
                   <h5 className="text-white font-medium mb-2">Location:</h5>
-                  <p className="text-gray-400">New Delhi, India</p>
+                  <p className="text-gray-400">Harare, Zimbabwe</p>
                 </div>
                 <div>
                   <h5 className="text-white font-medium mb-2">Phone:</h5>
