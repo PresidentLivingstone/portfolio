@@ -20,6 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth">
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
       <body className={inter.className}>{children}</body>
       <link rel="icon" href="/icon.png" type="image/png" />
     </html>
